@@ -1,0 +1,12 @@
+
+body{ background-color: blueviolet;}
+padding : auto;
+margin : auto;
+
+.seccion { 
+    border: 1px solid salmon 
+    }
+    .box{
+        margin 20px;
+        border: 2 px  solid seagreen;
+    }
